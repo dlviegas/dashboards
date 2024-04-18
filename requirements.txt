@@ -1,0 +1,6 @@
+streamlit
+pandas
+streamlit-extras
+mysql-connector-python
+python-decouple
+plotly
